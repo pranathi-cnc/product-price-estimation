@@ -1,0 +1,11 @@
+product_id,description,actual_price,baseline_prediction,baseline_absolute_error,gemma_prediction,gemma_absolute_error,invalid_output
+P041,Waterproof Bluetooth speaker with 90W output and 24 hour battery,7299.0,2889.0,4410.0,7999.0,700.0,
+P042,Portable speaker with 90W output and dual drivers,7499.0,2889.0,4610.0,8399.0,900.0,
+P043,Bluetooth speaker with 100W output and deep bass mode,7799.0,2889.0,4910.0,10299.0,2500.0,
+P044,Waterproof speaker with 100W output and 26 hour battery,7999.0,2889.0,5110.0,5999.0,2000.0,
+P045,Portable Bluetooth speaker with 110W output and stereo sound,8299.0,2889.0,5410.0,12999.0,4700.0,
+P046,Bluetooth speaker with 110W output and enhanced bass,8499.0,2889.0,5610.0,10800.0,2301.0,
+P047,Waterproof Bluetooth speaker with 120W output and 28 hour battery,8799.0,2889.0,5910.0,11299.0,2500.0,
+P048,Portable speaker with 120W output and dual drivers,8999.0,2889.0,6110.0,11999.0,3000.0,
+P049,Bluetooth speaker with 130W output and deep bass mode,9299.0,2889.0,6410.0,12999.0,3700.0,
+P050,Waterproof Bluetooth speaker with 150W output and 30 hour battery,9999.0,2889.0,7110.0,13924.0,3925.0,
